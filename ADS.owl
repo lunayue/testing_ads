@@ -27,17 +27,6 @@ ClassAssertion(:Algorithm :nsgaii)
 DataPropertyAssertion(:maxObjectivesAlgorithmIsAbleToDealWith :nsgaii "3"^^xsd:integer)
 DataPropertyAssertion(:minObjectivesAlgorithmIsAbleToDealWith :nsgaii "2"^^xsd:integer)
 
-# Individual: :nsgaiii (:nsgaiii)
-
-ClassAssertion(:Algorithm :nsgaiii)
-DataPropertyAssertion(:maxObjectivesAlgorithmIsAbleToDealWith :nsgaiii "10000"^^xsd:integer)
-DataPropertyAssertion(:minObjectivesAlgorithmIsAbleToDealWith :nsgaiii "3"^^xsd:integer)
-
-# Individual: :smsemoa (:smsemoa)
-
-ClassAssertion(:Algorithm :smsemoa)
-DataPropertyAssertion(:maxObjectivesAlgorithmIsAbleToDealWith :smsemoa "3"^^xsd:integer)
-DataPropertyAssertion(:minObjectivesAlgorithmIsAbleToDealWith :smsemoa "2"^^xsd:integer)
 
 
 )
